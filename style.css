@@ -1,0 +1,95 @@
+/* Estilo para o corpo do currículo */
+body {
+  font-family: Arial, sans-serif;
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilo para o cabeçalho do currículo */
+.header {
+  background-color: #333333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilo para o nome */
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Estilo para informações de contato */
+.contact {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+/* Estilo para a seção de educação e experiência */
+.section {
+  background-color: rgb(228, 222, 222);
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Estilo para títulos de seção */
+.section h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+/* Estilo para entradas de seção (experiência ou educação) */
+.entry {
+  margin-bottom: 15px;
+}
+
+/* Estilo para títulos de entrada de seção */
+.entry h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Estilo para datas em entradas de seção */
+.entry .date {
+  font-size: 14px;
+  color: #777;
+}
+
+/* Estilo para descrições em entradas de seção */
+.entry .description {
+  font-size: 16px;
+}
+
+/* Estilo para as habilidades */
+.skills {
+  margin-top: 20px;
+}
+
+/* Estilo para a lista de habilidades */
+.skills ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+/* Estilo para rodapé do currículo */
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Estilo para links */
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+/* Estilo para links ao passar o mouse sobre eles */
+a:hover {
+  text-decoration: underline;
+}
